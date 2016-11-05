@@ -1,0 +1,2 @@
+# AddPlatform
+add platform project
